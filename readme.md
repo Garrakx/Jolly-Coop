@@ -1,28 +1,22 @@
-======================================================
-	# JOLLY COOP MOD v1.6 - Easy Mode Update
-======================================================
-By Garrakx
+# JOLLY COOP MOD v1.6 - EASY MODE UPDATE
+## By Garrakx
 
 ### HOW TO INSTALL ###
-==============================
 Use the latest version of Partiality (0.3.11 or newer)
-REQUIRES LATEST VERSION OF CONFIG MACHINE by topicular
+REQUIRES CONFIG MACHINE by topicular
 You can find it in the *TOOLs* section of RainDB.
+REQUIRES AUTOUPDATE by pastebee
 
 ### HOW TO UNINSTALL ###
-==============================
 Deselect the mod on Partiality and patch again.
 
-### HOW TO PLAY ###
-==============================
+## HOW TO PLAY ##
 Load any character and enjoy! - SEE COMIC FOR INSTRUCTIONS:
 https://drive.google.com/file/d/1AEa7YY-mCZ8MeVCYKZ4_54Ogp9UgabNj/view
 
-=================
-## Description ##
-=================
+# Description #
 - Configure the input for the players in the vanilla options menu. 
-	# Careful, it only matters the player NUMBER (player1, player3, etc) you are, regardeless of your color/character!
+	**Careful, it only matters the player NUMBER (player1, player3, etc) you are, regardeless of your color/character!**
 - Choose how many players you want to play with (1 - 4) on the top left corner of config menu 
 - To point, hold the point button and choose the direction with arrow keys/joystick.
 - If you point any object / creature an arrow will appear above it.
@@ -56,8 +50,8 @@ Special thanks to AnnoyingFlower, Avis, topicular, Snailturtle, Willburd and End
 Arrow indicator suggested by 12 steps.
 Pup mode is a modification of Lancer Mod by topicular.
 
-Changelog
-==========================================================================================	
+### Changelog ###
+======================================================================================	
   ## Version 1.6 ## 
   	- Added an Easy Mode, where only one player needs to survive the cycle.
   	- Added a hologram indicator for players in a different room that the one currently being viewed.
@@ -86,7 +80,7 @@ Changelog
 	- Fixed a bug where getting killed by a DLL would not trigger gameover.
 	- Fixed a crash caused by the RoomBorderPushBack on shoreline (thanks bee).
 
-==========================================================================================
+======================================================================================
   ## Version 1.5.2 ## 
 	- Fixed long pup arms.
 	- Fixed a bug with pointing.
@@ -104,7 +98,7 @@ Changelog
 	- Fixed some bugs in arena.
 	- Fixed a crash caused by the death indicator.
 	- Fixed color bug in the death indicator.
-==========================================================================================	
+======================================================================================	
   ## Version 1.3.5 ## 
 	- You can move while being grabbed by another player.
 	- Fixed some bugs in arena.
@@ -125,14 +119,14 @@ Changelog
 	- Added death indicator
 	- Added sleep emote.
 	- Slighty adjusted game ending for coop.
-==========================================================================================	
+======================================================================================	
   ## Version 1.2.1 ## 
 	- Fixed crashes related to weapons.
   ## Version 1.2 ## 
 	- Shelter work now
 	- GAMEOVER screen will pop after death rain or lizard put player on den
 	- Fixed spears getting stuck in players while piggy back riding.
-==========================================================================================	
+======================================================================================	
   ## Version 1.1 - bugfixes ## 
 	- Fixed some lag caused by an exception null.
 	- Fixed custom stomach.
@@ -145,4 +139,4 @@ Changelog
 	- Added new configurations (You can disable second player now)
 	- Fixed some visual glitches.
 	- Fixed some bugs while hibernating.
-==========================================================================================	
+======================================================================================
