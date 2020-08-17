@@ -4,10 +4,9 @@
 ![super jolly coop](https://i.ibb.co/Qjb2Czz/Super-Jolly-Coop-RAINDB.png "Super Jolly Coop")
 
 ### HOW TO INSTALL ###
-Use the latest version of Partiality (0.3.11 or newer)
-REQUIRES CONFIG MACHINE by topicular
-You can find it in the *TOOLs* section of RainDB.
-REQUIRES AUTOUPDATE by pastebee
+- Use the latest version of Partiality (0.3.11 or newer)
+- REQUIRES CONFIG MACHINE by topicular (You can find it in the *TOOLs* section of RainDB)
+- REQUIRES AUTOUPDATE by pastebee (You can find it in the *TOOLs* section of RainDB)
 
 ### HOW TO UNINSTALL ###
 Deselect the mod on Partiality and patch again.
