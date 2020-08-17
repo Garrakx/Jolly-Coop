@@ -1,6 +1,8 @@
 # JOLLY COOP MOD v1.6 - EASY MODE UPDATE
 ## By Garrakx
 
+![super jolly coop](https://i.ibb.co/Qjb2Czz/Super-Jolly-Coop-RAINDB.png "Super Jolly Coop")
+
 ### HOW TO INSTALL ###
 Use the latest version of Partiality (0.3.11 or newer)
 REQUIRES CONFIG MACHINE by topicular
