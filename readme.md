@@ -69,7 +69,7 @@ Pup mode is a modification of Lancer Mod by topicular.
 	- Increased precision for smart pointing.
 	- Around 7,785 lines of code modified since last version.
 
-* Bugfixes
+	# Bugfixes #
   	- Fixed a bug where wormgrass would not trigger gameover..
 	- Fixed a bug where centipedes / scavengers / needleworm would keep attacking dead players.
 	- Starvation now works.
