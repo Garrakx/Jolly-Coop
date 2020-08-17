@@ -3,6 +3,8 @@
 
 ![super jolly coop](https://i.ibb.co/Qjb2Czz/Super-Jolly-Coop-RAINDB.png "Super Jolly Coop")
 
+[# DOWNLOAD #](https://github.com/Garrakx/Jolly-Coop/releases/tag/v1.6.0-b)
+
 ### HOW TO INSTALL ###
 - Use the latest version of Partiality (0.3.11 or newer)
 - REQUIRES CONFIG MACHINE by topicular (You can find it in the *TOOLs* section of RainDB)
