@@ -9,10 +9,10 @@
 - REQUIRES AUTOUPDATE by pastebee (You can find it in the *TOOLs* section of RainDB)
 
 ### HOW TO UNINSTALL ###
-Deselect the mod on Partiality and patch again.
+- Deselect the mod on Partiality and patch again.
 
 ## HOW TO PLAY ##
-Load any character and enjoy! - SEE COMIC FOR INSTRUCTIONS:
+- Load any character and enjoy! - SEE COMIC FOR INSTRUCTIONS:
 https://drive.google.com/file/d/1AEa7YY-mCZ8MeVCYKZ4_54Ogp9UgabNj/view
 
 # Description #
