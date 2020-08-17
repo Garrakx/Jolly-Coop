@@ -52,7 +52,7 @@ Pup mode is a modification of Lancer Mod by topicular.
 
 ### Changelog ###
 ======================================================================================	
-  ## Version 1.6 ## 
+  ## Version 1.6.0 ## 
   	- Added an Easy Mode, where only one player needs to survive the cycle.
   	- Added a hologram indicator for players in a different room that the one currently being viewed.
 	- Revamped the config menu.
