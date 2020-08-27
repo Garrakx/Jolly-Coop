@@ -3,7 +3,11 @@
 
 ![super jolly coop](https://i.ibb.co/Qjb2Czz/Super-Jolly-Coop-RAINDB.png "Super Jolly Coop")
 
+Point with spears!
 <img src="/point_spear.gif?raw=true" width="400px">
+
+Custom HUD!
+![custom hud](https://cdn.discordapp.com/attachments/628072652736561172/694578519946297474/sike.gif)
 
 [# DOWNLOAD #](https://github.com/Garrakx/Jolly-Coop/releases/tag/v1.6.0-b)
 
