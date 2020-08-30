@@ -3,18 +3,14 @@
 
 ![super jolly coop](https://i.ibb.co/Qjb2Czz/Super-Jolly-Coop-RAINDB.png "Super Jolly Coop")
 
-Point with spears!
 <img src="/point_spear.gif?raw=true" width="400px">
 
-Custom HUD!
 ![custom hud](https://cdn.discordapp.com/attachments/628072652736561172/694578519946297474/sike.gif)
-
-[# DOWNLOAD #](https://github.com/Garrakx/Jolly-Coop/releases/tag/v1.6.0-b)
 
 ### HOW TO INSTALL ###
 - Use the latest version of Partiality (0.3.11 or newer)
-- REQUIRES CONFIG MACHINE by topicular (You can find it in the *TOOLs* section of RainDB)
-- REQUIRES AUTOUPDATE by pastebee (You can find it in the *TOOLs* section of RainDB)
+- Download [Jolly Coop Here](https://github.com/Garrakx/Jolly-Coop/releases/tag/v1.6.0-b)
+- Make sure you apply autoupdate and config machine as well.
 
 ### HOW TO UNINSTALL ###
 - Deselect the mod on Partiality and patch again.
