@@ -1,7 +1,7 @@
 # JOLLY COOP MOD v1.6 - EASY MODE UPDATE
 ## By Garrakx
 
-![super jolly coop](https://i.ibb.co/Qjb2Czz/Super-Jolly-Coop-RAINDB.png "Super Jolly Coop")
+![super jolly coop](http://www.raindb.net/previews/jolly.png?raw=true "Super Jolly Coop")
 
 <img src="/point_spear.gif?raw=true" width="400px">
 
