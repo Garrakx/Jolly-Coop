@@ -8,7 +8,7 @@
 ![custom hud](https://cdn.discordapp.com/attachments/628072652736561172/694578519946297474/sike.gif)
 
 ### 한국어 가이드  ###
-[by @ding_Bug](https://bluetrilobite.tistory.com/)
+[by @ding_Bug](https://bluetrilobite.tistory.com/1)
 
 ### HOW TO INSTALL ###
 - Use the latest version of Partiality (0.3.11 or newer)
