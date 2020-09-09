@@ -1,4 +1,4 @@
-# JOLLY COOP MOD v1.6 - EASY MODE UPDATE
+# JOLLY COOP MOD v1.6.3 - EASY MODE UPDATE
 ## By Garrakx
 
 ![super jolly coop](http://www.raindb.net/previews/jolly.png?raw=true "Super Jolly Coop")
@@ -60,7 +60,7 @@ Pup mode is a modification of Lancer Mod by topicular.
 
 ### Changelog ###
 ======================================================================================	
-  ## Version 1.6.0 ## 
+  ## Version 1.6 ## 
   	- Added an Easy Mode, where only one player needs to survive the cycle.
   	- Added a hologram indicator for players in a different room that the one currently being viewed.
 	- Revamped the config menu.
