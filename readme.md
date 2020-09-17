@@ -1,4 +1,4 @@
-# JOLLY COOP MOD v1.6.3 - EASY MODE UPDATE
+# JOLLY COOP MOD v1.6.6 - EASY MODE UPDATE
 ## By Garrakx
 
 ![super jolly coop](http://www.raindb.net/previews/jolly.png?raw=true "Super Jolly Coop")
