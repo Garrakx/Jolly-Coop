@@ -56,6 +56,7 @@ https://discord.gg/FsFY94E
 
 Special thanks to AnnoyingFlower, Avis, topicular, Snailturtle, Willburd and Enderzilla.
 Arrow indicator suggested by 12 steps.
+Tranlsations by ding_Bug and topicular.
 Pup mode is a modification of Lancer Mod by topicular.
 
 ### Changelog ###
