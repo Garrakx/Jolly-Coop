@@ -22,6 +22,14 @@
 - Load any character and enjoy! - SEE COMIC FOR INSTRUCTIONS:
 https://drive.google.com/file/d/1AEa7YY-mCZ8MeVCYKZ4_54Ogp9UgabNj/view
 
+## HOW TO PLAY ONLINE USING STEAM REMOTE PLAY ##
+* Launch your game.
+* Make sure your friend is logged in to Steam from a supported device.
+* Open your Steam Overlay in-game (shift+tab).
+* From your friends list, select 'Remote Play Together'.
+* Once your friend accepts the invite, they will be in-game with you
+More information [here](https://support.steampowered.com/kb_article.php?ref=3629-riav-1617)
+
 # Description #
 - Configure the input for the players in the vanilla options menu. 
 	**Careful, it only matters the player NUMBER (player1, player3, etc) you are, regardeless of your color/character!**
