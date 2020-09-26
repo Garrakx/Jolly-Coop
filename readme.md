@@ -11,7 +11,7 @@
 [by @ding_Bug](https://bluetrilobite.tistory.com/1)
 
 ### Гид на русском языке ###
-[by @thalber](https://github.com/Garrakx/Custom-Regions/blob/master/README-RU.md)
+[by @thalber](https://github.com/Garrakx/Jolly-Coop/blob/master/jolly-readme-RU.md)
 
 ### HOW TO INSTALL ###
 - Use the latest version of Partiality (0.3.11 or newer)
