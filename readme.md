@@ -10,6 +10,9 @@
 ### 한국어 가이드  ###
 [by @ding_Bug](https://bluetrilobite.tistory.com/1)
 
+### Гид на русском языке ###
+[by @thalber](https://github.com/Garrakx/Custom-Regions/blob/master/README-RU.md)
+
 ### HOW TO INSTALL ###
 - Use the latest version of Partiality (0.3.11 or newer)
 - Download [Jolly Coop Here](https://github.com/Garrakx/Jolly-Coop/releases/tag/v1.6.0-b)
