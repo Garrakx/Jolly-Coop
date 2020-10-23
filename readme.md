@@ -15,7 +15,7 @@
 
 ### HOW TO INSTALL ###
 - Use the latest version of Partiality (0.3.11 or newer)
-- Download [Jolly Coop Here](https://github.com/Garrakx/Jolly-Coop/releases/tag/v1.6.0-b)
+- Download [Jolly Coop Here](https://github.com/Garrakx/Jolly-Coop/releases)
 - Make sure you apply config machine as well.
 
 ### HOW TO UNINSTALL ###
