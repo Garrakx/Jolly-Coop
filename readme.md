@@ -13,6 +13,9 @@
 ### Гид на русском языке ###
 [by @thalber](https://github.com/Garrakx/Jolly-Coop/blob/master/jolly-readme-RU.md)
 
+### ガイド日本語 ###
+[by nanteko](https://www.youtube.com/watch?v=R5cLEJ496j8)
+
 ### HOW TO INSTALL ###
 - Use the latest version of Partiality (0.3.11 or newer)
 - Download [Jolly Coop Here](https://github.com/Garrakx/Jolly-Coop/releases)
