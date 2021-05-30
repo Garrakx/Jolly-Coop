@@ -17,7 +17,7 @@
 [by nanteko](https://www.youtube.com/watch?v=R5cLEJ496j8)
 
 ### HOW TO INSTALL ###
-- Use the latest version of Partiality (0.3.11 or newer)
+- Download and install a Rain World Modloader. BepInEx is recommended. **Video tutorial** by *LeeMoriya*: [click here](https://youtu.be/brDN_8uN6-U).
 - Download [Jolly Coop Here](https://github.com/Garrakx/Jolly-Coop/releases)
 - Make sure you apply config machine as well.
 
