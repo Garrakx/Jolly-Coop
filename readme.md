@@ -1,6 +1,6 @@
 # JOLLY COOP MOD v1.6.6 - EASY MODE UPDATE
 ## By Garrakx
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgarrakx)](https://twitter.com/garrakx)  [![Downloads](https://img.shields.io/github/downloads/Garrakx/Jolly-Coop/total.svg?style=flat-square)]() [![Version](https://img.shields.io/github/release/Garrakx/Jolly-Coop.svg?style=flat-square)](https://github.com/GGarrakx/Jolly-Coop/releases/)  
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgarrakx)](https://twitter.com/garrakx) [![Downloads](https://img.shields.io/github/downloads/Garrakx/Jolly-Coop/total.svg?style=flat-square)]()[![Donate](https://img.shields.io/badge/support-DONATE-orange?style=flat-square)](https://ko-fi.com/garrakx) [![Version](https://img.shields.io/github/release/Garrakx/Jolly-Coop.svg?style=flat-square)](https://github.com/GGarrakx/Jolly-Coop/releases/)  
 ![super jolly coop](http://www.raindb.net/previews/jolly.png?raw=true "Super Jolly Coop")
 
 <img src="/point_spear.gif?raw=true" width="400px">
